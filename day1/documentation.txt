@@ -1,0 +1,14 @@
+I'm so excited to be part of this challenge, I'm very happy to put my knowledge in practice and improve it.
+
+Today, I set up my environment, so my work will be smooth during the challenge.
+
+-My AWS account was already created
+-I already had Terraform install on my machine, but it was an older version. so I had to update and install the latest version 
+-My AWS CLI was already set up before the challenge
+-I already had Visual Studio Code install
+
+To verify all my installation, I run two commands:
+terraform version et aws sts get-caller-identity
+(I post the screenshot of output) 
+
+
