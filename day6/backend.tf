@@ -16,5 +16,3 @@ resource "null_resource" "delay" {
     command = "sleep 30"  # slow resource to hold lock
   }
 }
-
-
