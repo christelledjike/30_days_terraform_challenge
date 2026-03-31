@@ -1,4 +1,8 @@
+# Ignore Terraform local files
 .terraform/
 *.tfstate
-*.tfstate.backup
+*.tfstate.*
 .terraform.lock.hcl
+
+# Any other ignores from GitHub
+# e.g., node_modules, .DS_Store, etc.
